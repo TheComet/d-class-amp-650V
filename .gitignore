@@ -1,2 +1,4 @@
 *.~SCHDOC
 *.~PRJPCB
+*.~PCBDOC
+*.LOG
